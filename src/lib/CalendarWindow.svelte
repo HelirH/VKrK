@@ -98,9 +98,13 @@
         display: block;
     }
 
+    #modalContainer.expanded #modal {
+        animation: pop 0.1s forwards;
+    }
+
     #modal {
         position: relative;
-        width: 90%;
+        width: calc(90% - 40px);
         height: 300px;
         max-width: 500px;
         padding: 20px;
@@ -111,6 +115,20 @@
         border: 1px solid rgba(0,0,0, 0.1);
         border-radius: 10px;
         box-shadow: 0 5px 16px 0 rgba(51, 51, 51, 0.37);
+    }
+
+    @keyframes pop {
+        0% {
+            width: calc(80% - 40px);
+            height: 250px;
+            opacity: 0;
+        }
+
+        100% {
+            width: calc(90% - 40px);
+            height: 300px;
+            opacity: 1;
+        }
     }
 
     #modalDate {

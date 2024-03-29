@@ -1,13 +1,13 @@
 <div id="content">
     <div id="sidebar">
-        <a href="/">Toitlustamine</a>
-        <a href="/">Pikapäevarühm</a>
-        <a href="/">Koolitervishoid</a>
-        <a href="/">Tervisenõukogu</a>
-        <a href="/">Projektid</a>
-        <a href="/">Ainetepäev</a>
-        <a href="/">Almanahh "Lennuk"</a>
-        <a href="/">Sündmuste kalender</a>
+        <a href="/toitlustamine">Toitlustamine</a>
+        <a href="/pikapaevaruhm">Pikapäevarühm</a>
+        <a href="/koolitervishoid">Koolitervishoid</a>
+        <a href="/tervisenoukogu">Tervisenõukogu</a>
+        <a href="/projektid">Projektid</a>
+        <a href="/ainetepaev">Ainetepäev</a>
+        <a href="/almanahh">Almanahh "Lennuk"</a>
+        <a href="/kalender">Sündmuste kalender</a>
         <a href="/galerii">Galerii</a>
     </div>
     <div id="wrapper">
