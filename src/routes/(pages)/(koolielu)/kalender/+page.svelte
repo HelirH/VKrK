@@ -12,7 +12,6 @@
         "05.01.2024": "Koolivaheaeg",
         "06.01.2024": "Koolivaheaeg",
         "12.01.2024": "Kreutzwaldi nädal ja kooli sünnipäev",
-        "24.03.2024": "Kreutzwaldi nädal ja kooli sünnipäev",
         "02.02.2024": "5. klasside poole põhikooli läbimise tähistamine",
         "05.02.2024": "Avatud uste päev aulas",
         "12.02.2024": "1.-3. klasside sportlikud pärastlõunad",

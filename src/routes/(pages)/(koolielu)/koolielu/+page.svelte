@@ -1,7 +1,7 @@
 <div id="titleContainer">
     <p>KOOLIELU</p>
 </div>
-<img src="/oppetoo-230516-980x419.jpg" alt="">
+<img src="/fotod-videod-230523-980x419.jpg" alt="">
 <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sagittis commodo risus in lobortis. Aliquam purus est, sollicitudin non mi vitae, posuere porttitor nisl. In convallis tincidunt malesuada. Nulla id sem vitae felis consectetur dictum. Sed porta nunc quis justo sagittis, a gravida metus hendrerit. Fusce vel scelerisque ex. Nunc ac interdum purus. Ut non mattis mi. Nullam vitae venenatis nisi. Morbi mi risus, dapibus ac tortor quis, lacinia finibus tortor. Suspendisse ullamcorper libero malesuada purus feugiat, eu pretium elit semper. Cras lacinia lectus ut cursus accumsan. Mauris tincidunt nisl nisi, condimentum sollicitudin lorem pretium ut.</p>
 
 <style>
