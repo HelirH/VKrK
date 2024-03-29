@@ -1,13 +1,13 @@
 <div id="content">
     <div id="sidebar">
-        <a href="/">Tunniplaan</a>
-        <a href="/">Tundide ajad</a>
-        <a href="/">Trimestrite ja koolivaheaegade ajad</a>
-        <a href="/">Eksamid ja tasemetööd</a>
-        <a href="/">Konsultatsioon ja järelvastamine</a>
-        <a href="/">Olümpiaadid ja võistlused</a>
-        <a href="/">Raamatukogu</a>
-        <a href="/">Stuudium</a>
+        <a href="/tunniplaan">Tunniplaan</a>
+        <a href="/tundideajad">Tundide ajad</a>
+        <a href="/trimestridkoolivaheajad">Trimestrite ja koolivaheaegade ajad</a>
+        <a href="/eksamidjareltood">Eksamid ja tasemetööd</a>
+        <a href="/konsultatsioonjarelvastamine">Konsultatsioon ja järelvastamine</a>
+        <a href="/olumpiaadidvoistlused">Olümpiaadid ja võistlused</a>
+        <a href="/raamatukogu">Raamatukogu</a>
+        <a href="/https://kreutzwaldi.ope.ee/">Stuudium</a>
     </div>
     <div id="wrapper">
         <slot/>
