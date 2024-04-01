@@ -1,4 +1,5 @@
 <script>
+    import { inject } from '@vercel/analytics'
     import { page } from '$app/stores';
     import { onMount } from 'svelte';
     
