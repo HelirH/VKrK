@@ -8,27 +8,27 @@
             <ul id="news">
                 <h2 id="uudised">UUDISED</h2>
                 <li>
-                    <a class="newsLink" href="https://vkrk.edu.ee/tundide-ajad/">OLULINE INFO!</a>
+                    <a class="newsLink" href="/">OLULINE INFO!</a>
                     <p class="newsBrief">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam consectetur eu urna ac imperdiet. Praesent nec turpis at ligula fringilla eleifend vel at mauris. Suspendisse egestas iaculis efficitur. Donec sagittis dolor sed rutrum accumsan. Sed scelerisque et eros nec ullamcorper. Praesent euismod arcu sed malesuada imperdiet. Aliquam elementum porta auctor. Donec id elit dolor. Fusce a orci euismod, accumsan lacus id, imperdiet magna. Sed gravida ex eu massa semper cursus.</p>
                     <p class="newsDate">12.10.2023</p>
                 </li>
                 <li>
-                    <a class="newsLink" href="https://vkrk.edu.ee/tundide-ajad/">EUROOPA KEELTE PÄEVA VIKTORIIN</a>
+                    <a class="newsLink" href="/">EUROOPA KEELTE PÄEVA VIKTORIIN</a>
                     <p class="newsBrief">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec ante dictum, faucibus orci ac, vulputate erat. Pellentesque maximus neque diam, a maximus dui convallis eget. Suspendisse potenti. Donec maximus ullamcorper neque, sit amet ornare massa. Mauris et tincidunt orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean sollicitudin vulputate risus ac tempus. Donec euismod semper est, nec hendrerit ipsum tincidunt vitae. Phasellus eu erat sit amet est pellentesque lacinia. Nunc ac mollis mi. Sed fringilla velit et justo rutrum faucibus sed a tellus.</p>
                     <p class="newsDate">12.10.2023</p>
                 </li>
                 <li>
-                    <a class="newsLink" href="https://vkrk.edu.ee/tundide-ajad/">UURIMISTÖÖ “KES ELAVAD TIIGIS?”</a>
+                    <a class="newsLink" href="/">UURIMISTÖÖ “KES ELAVAD TIIGIS?”</a>
                     <p class="newsBrief">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum nunc egestas nulla aliquet ultrices eu non nunc. Duis facilisis feugiat elit, vel tincidunt purus fermentum eget. Pellentesque sollicitudin neque eu neque aliquet accumsan. Vestibulum eu velit sit amet lacus interdum placerat et at libero. Sed mattis diam eget risus sollicitudin fringilla. Morbi venenatis gravida placerat. Quisque nec nibh in felis condimentum ultricies. Donec velit nisi, mattis a malesuada pharetra, dapibus quis tellus. Etiam nisl quam, faucibus at justo vitae, lobortis vulputate eros. Sed id metus ut ante faucibus imperdiet in nec turpis.</p>
                     <p class="newsDate">9.10.2023</p>
                 </li>
                 <li>
-                    <a class="newsLink" href="https://vkrk.edu.ee/tundide-ajad/">RAHVATANTSU INFO</a>
+                    <a class="newsLink" href="/">RAHVATANTSU INFO</a>
                     <p class="newsBrief">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquam in lacus vitae condimentum. Praesent accumsan felis id tincidunt malesuada. Maecenas nec tellus in felis rutrum vulputate id eu mi. Suspendisse metus diam, ornare eget auctor ac, vestibulum at lacus. Proin eget odio feugiat, dignissim justo eu, vulputate quam. Curabitur ullamcorper nisi ut turpis pellentesque tristique. Proin suscipit, eros rutrum semper tincidunt, justo tellus sodales dolor, a interdum purus mauris et tortor. Duis finibus diam neque, ut ornare urna mattis a. Cras consequat libero eget mi elementum, ac egestas risus luctus. Integer eu velit massa. Nullam cursus augue nec vulputate euismod.</p>
                     <p class="newsDate">3.10.2023</p>
                 </li>
                 <li>
-                    <a class="newsLink" href="https://vkrk.edu.ee/tundide-ajad/">STUUDIUMISSE SISENEMISE JUHEND</a>
+                    <a class="newsLink" href="/">STUUDIUMISSE SISENEMISE JUHEND</a>
                     <p class="newsBrief">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut metus non sem faucibus consectetur et sed arcu. Integer ullamcorper elit sed dui scelerisque hendrerit. Maecenas faucibus, leo vel bibendum aliquet, erat eros faucibus urna, sed tincidunt diam ipsum sit amet orci. Nulla pharetra felis eu mollis eleifend. Integer sit amet lectus interdum, consectetur quam ac, dignissim arcu. Mauris ac felis at ligula porta ullamcorper quis a erat. Pellentesque ac augue commodo, tincidunt velit vitae, consequat eros. Maecenas id magna nec est mattis dapibus quis non lectus.</p>
                     <p class="newsDate">30.08.2023</p>
                 </li>
